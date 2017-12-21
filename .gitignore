@@ -4,3 +4,6 @@
 
 /AdminService/bin/Release/netcoreapp2.0
 /AdminService/obj
+.vs/MicroServiceMigration/v15/sqlite3/storage.ide
+.vs/MicroServiceMigration/v15/.suo
+.vs/MicroServiceMigration/v15/.suo
