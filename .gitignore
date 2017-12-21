@@ -4,3 +4,8 @@
 
 /AdminService/bin/Release/netcoreapp2.0
 /AdminService/obj
+/.vs/config/applicationhost.config
+/.vs/MicroServiceMigration/v15/Server/sqlite3
+/.vs/MicroServiceMigration/v15/sqlite3/db.lock
+/.vs/MicroServiceMigration/v15/sqlite3/storage.ide-shm
+/.vs/MicroServiceMigration/v15/sqlite3/storage.ide-wal
