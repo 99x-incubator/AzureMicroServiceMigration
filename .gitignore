@@ -4,15 +4,10 @@
 
 /AdminService/bin/Release/netcoreapp2.0
 /AdminService/obj
-<<<<<<< HEAD
-.vs/MicroServiceMigration/v15/sqlite3/storage.ide
-.vs/MicroServiceMigration/v15/.suo
-.vs/MicroServiceMigration/v15/.suo
-=======
 /.vs/MicroServiceMigration/v15/Server/sqlite3
 /.vs/MicroServiceMigration/v15/sqlite3/db.lock
 /.vs/MicroServiceMigration/v15/sqlite3/storage.ide-shm
 /.vs/MicroServiceMigration/v15/sqlite3/storage.ide-wal
 /.vs/MicroServiceMigration/v15/sqlite3/storage.ide
 /.vs/config
->>>>>>> b221cff6ff49ff69ae4e32acdfa7330436d7e932
+.vs/MicroServiceMigration/v15/.suo
