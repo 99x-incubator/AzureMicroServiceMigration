@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using AdminService.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AdminService
 {
@@ -24,6 +26,7 @@ namespace AdminService
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddDbContext<AdminDBContext>(options => options.UseSqlServer(Configuration.GetConnectionString("AdminDatabase")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
