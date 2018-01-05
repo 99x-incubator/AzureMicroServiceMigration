@@ -11,3 +11,13 @@
 /.vs/MicroServiceMigration/v15/sqlite3/storage.ide
 /.vs/config
 .vs/MicroServiceMigration/v15/.suo
+/.vs/MicroServiceMigration/lut/0/0/AdminService/Release/netcoreapp2.0
+/.vs/MicroServiceMigration/lut/0/0/AdminService.UnitTest/Release/netcoreapp2.0
+/.vs/MicroServiceMigration/lut/0/i/AdminService/Release/netcoreapp2.0
+/.vs/MicroServiceMigration/lut/0/t/AdminService/Release/netcoreapp2.0
+/.vs/MicroServiceMigration/lut/8844
+/.vs/MicroServiceMigration/lut/0
+/AdminService/.dockerignore
+/AdminService/Dockerfile
+/AdminService.UnitTest/obj
+/.vs/MicroServiceMigration/lut
