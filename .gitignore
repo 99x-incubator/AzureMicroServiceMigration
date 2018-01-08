@@ -21,3 +21,4 @@
 /AdminService/Dockerfile
 /AdminService.UnitTest/obj
 /.vs/MicroServiceMigration/lut
+AdminService.UnitTest/bin/
