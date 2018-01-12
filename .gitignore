@@ -22,3 +22,4 @@
 /AdminService.UnitTest/obj
 /.vs/MicroServiceMigration/lut
 AdminService.UnitTest/bin/
+obj/
