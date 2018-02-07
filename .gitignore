@@ -21,3 +21,8 @@
 /.vs/MicroServiceMigration/lut
 AdminService.UnitTest/bin/
 obj/
+packages/
+*/.vs
+*/bin
+*/obj
+*/pkg
